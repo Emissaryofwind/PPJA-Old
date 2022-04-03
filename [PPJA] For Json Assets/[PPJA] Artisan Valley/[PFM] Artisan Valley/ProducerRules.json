@@ -1,4 +1,4 @@
-﻿[
+[
     // Still
 
     {
@@ -1963,14 +1963,13 @@
     },
     {
         "ProducerName": "Sorbet Machine",
-        "InputIdentifier": "Dragon Fruit",
+        "InputIdentifier": "91",
         "InputStack": 1,
         "FuelIdentifier": "245",
         "FuelStack": 1,
         "AdditionalFuel":
         {
-            "635": 1,
-            "91": 1
+            "Dragon Fruit": 1
         },
         "MinutesUntilReady": 120,
         "OutputIdentifier": "Dragon Fruit Fruit Sorbet",
@@ -2004,6 +2003,20 @@
         },
         "MinutesUntilReady": 120,
         "OutputIdentifier": "Mango Fruit Sorbet",
+        "Sounds": ["Ship"],
+    },
+{
+        "ProducerName": "Sorbet Machine",
+        "InputIdentifier": "Passion Fruit",
+        "InputStack": 1,
+        "FuelIdentifier": "245",
+        "FuelStack": 1,
+        "AdditionalFuel":
+        {
+            "834": 1,
+        },
+        "MinutesUntilReady": 120,
+        "OutputIdentifier": "Mango Passion Fruit Fruit Sorbet",
         "Sounds": ["Ship"],
     },
     {
@@ -2081,15 +2094,14 @@
     },
     {
         "ProducerName": "Sorbet Machine",
-        "InputIdentifier": "400",
+        "InputIdentifier": "Lime",
         "InputStack": 1,
         "FuelIdentifier": "245",
         "FuelStack": 1,
         "AdditionalFuel":
         {
             "Dragon Fruit": 1,
-            "Lemon": 1,
-            "Lime": 1
+            "400": 1
         },
         "MinutesUntilReady": 120,
         "OutputIdentifier": "Strawberry Dragon Fruit Fruit Sorbet",
